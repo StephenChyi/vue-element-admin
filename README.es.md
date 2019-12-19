@@ -49,6 +49,7 @@ Vue Element Admin es una solución práctica basada en la nueva plataforma de de
 - Plantilla base recomendada para usar: [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 - Aplicación de Escritorio: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
 - Plantilla de Typescript: [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) (Créditos: [@Armour](https://github.com/Armour))
+- [awesome-project](https://github.com/PanJiaChen/vue-element-admin/issues/2312)
 
 **Después de la versión `v4.1.0+`, la rama por defecto master no tendrá soporte para i18n. Por favor use [i18n](https://github.com/PanJiaChen/vue-element-admin/tree/i18n), los cambios serán incluidos en la rama master**
 
@@ -71,7 +72,7 @@ Se un patrocinante y pon tu logo en nuestro README on GitHub con un enlace direc
 
 <a href="https://flatlogic.com/admin-dashboards?from=vue-element-admin"><img width="150px" src="https://wpimg.wallstcn.com/9c0b719b-5551-4c1e-b776-63994632d94a.png" /></a><p>Plantilla de Dashboard de administración hecha con Vue, React y Angular.</p>
 
-## Features
+## Características
 
 ```
 - Iniciar / Cerrar Sesión
@@ -155,7 +156,7 @@ npm run dev
 
 Automáticamente se abrirá el siguiente enlace en su navegador http://localhost:9527
 
-## Build
+## Construcción
 
 ```bash
 # Construcción para entornos de prueba
@@ -181,7 +182,7 @@ npm run lint
 npm run lint -- --fix
 ```
 
-Vaya a [Documentation](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) para mayor información
+Vaya a [Documentación](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) para mayor información
 
 ## Registro de Cambios
 
@@ -213,4 +214,4 @@ Navegadores modernos e Internet Explorer 10+.
 
 [MIT](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
 
-Copyright (c) 2017-present PanJiaChen
+Copyright (c) 2017-presente PanJiaChen
